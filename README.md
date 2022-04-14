@@ -1,5 +1,8 @@
 # Soft Actor Critic Reinforce Learning for autonomous manipulator using Gazebo and MATLAB
 
+This work was done by TAREK MOHAMED MAHMOUD SAID MOHAMED
+
+
 In this tutorial, we will explain how to built successfully a model of SAC-DRL to train Kinova robot arm to manipulate in a 3D enviroment. The objective of the SAC is learn how to control joints velocity to reach the target position.
 
 Before we start, please download and install [***VMware player***](https://www.vmware.com/go/getplayer-win) virtual machine player. And [***ros_melodic_dashing_gazebov9_linux_win_v3.zip***](https://ssd.mathworks.com/supportfiles/ros/virtual_machines/v2/ros_melodic_dashing_gazebov9_linux_win_v3.zip) virtual machine.
